@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "17baa9acc6eadbae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e80f15954ca69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d62177816631821",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3adabaf30486cf3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af2747fa566fd91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27326e77db54ba43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1b40eb9148cb3325",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f8210a1cce1cc49b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a7bf04820fa522d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e8b883e7a5038d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d98e331c4f67c73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "14c958e9c61c3264",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "4662efcfb6cf13f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "af832b7efc709f40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "27326e77db54ba43",
+  "lastOpenFiles": [
+    "2024-10-23.md",
+    "Sin título.canvas",
+    "Programming/Languages",
+    "Programming/Areas",
+    "Programming/Patterns",
+    "Programming/Architectures",
+    "Programming/Areas/Database",
+    "Programming/Areas/Backend",
+    "Management",
+    "Design",
+    "Programming/Areas/Frontend",
+    "Programming",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas"
+  ]
+}

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e80f15954ca69c",
+        "id": "9d0a0c13b764229b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d62177816631821",
+            "id": "05ddf41910917473",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,14 +136,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "9716e9111ce6152e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,23 +161,32 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "27326e77db54ba43",
+  "active": "9716e9111ce6152e",
   "lastOpenFiles": [
-    "2024-10-23.md",
+    "--limbo/asdasdsad.md",
+    "Development/Areas/Frontend/Sin título.md",
+    "--templates/template-basic.md",
+    "Sin nombre",
+    "Development/Areas/Frontend/Home.md",
+    "--templates",
+    "Development/Areas/Frontend/Roles.md",
+    "Development/Areas/Frontend/Roles",
+    "Development/Languages/SQL",
+    "Development/Languages/Java",
+    "Development/Languages/C Sharp",
+    "Development/Languages/Typescript",
+    "Development/Languages/Javascript",
+    "Development/Areas/Frontend/Sin título.canvas",
     "Sin título.canvas",
-    "Programming/Languages",
-    "Programming/Areas",
-    "Programming/Patterns",
-    "Programming/Architectures",
-    "Programming/Areas/Database",
-    "Programming/Areas/Backend",
-    "Management",
-    "Design",
-    "Programming/Areas/Frontend",
-    "Programming",
+    "Development/Paradigms",
+    "--files/docs",
+    "2024-10-23.md",
     "Sin título 2.canvas",
     "Sin título 1.canvas"
   ]

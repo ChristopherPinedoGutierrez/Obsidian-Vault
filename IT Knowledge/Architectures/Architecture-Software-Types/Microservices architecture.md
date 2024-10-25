@@ -1,0 +1,30 @@
+---
+creation Date: 2024-10-25 13:41
+last modification: " 2024-10-25 13:41"
+folder: Types Arch-Software
+aliases:
+  - Microservicios
+  - Arquitectura de microservicios
+tags:
+---
+___
+**Relacionado**
+
+[[Architecture-Software|Arquitectura de software]]
+___
+**Tabla de contenidos**
+
+- [[#Descripción|Descripción]]
+- [[#Utilización|Utilización]]
+- [[#Ejemplo|Ejemplo]]
+
+___
+### Descripción
+Esta arquitectura divide una aplicación en múltiples servicios pequeños e independientes que se comunican entre sí a través de APIs. Cada microservicio es responsable de una funcionalidad específica y puede ser desarrollado y desplegado de manera independiente.
+
+### Utilización
+- Adecuada para aplicaciones grandes y complejas que requieren escalabilidad y flexibilidad.
+- Proyectos que se benefician de equipos autónomos trabajando en diferentes servicios.
+
+### Ejemplo
+Un sistema de comercio electrónico donde hay microservicios separados para gestión de usuarios, procesamiento de pagos y gestión de inventario. Cada uno puede ser escalado o actualizado sin afectar a los demás.

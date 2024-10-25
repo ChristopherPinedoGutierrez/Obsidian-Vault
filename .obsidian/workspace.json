@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d0a0c13b764229b",
+        "id": "09ce0430c8d0352b",
         "type": "tabs",
         "children": [
           {
-            "id": "05ddf41910917473",
+            "id": "02a61a38d4f57bf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Hub - Tanstack Query"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Hub - Tanstack Query"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Hub - Tanstack Query"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Hub - Tanstack Query"
             }
           },
           {
@@ -146,13 +154,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c66ca079422a3ee9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,24 +191,44 @@
   },
   "active": "9716e9111ce6152e",
   "lastOpenFiles": [
-    "--limbo/asdasdsad.md",
-    "Development/Areas/Frontend/Sin título.md",
-    "--templates/template-basic.md",
-    "Sin nombre",
-    "Development/Areas/Frontend/Home.md",
-    "--templates",
-    "Development/Areas/Frontend/Roles.md",
-    "Development/Areas/Frontend/Roles",
-    "Development/Languages/SQL",
-    "Development/Languages/Java",
-    "Development/Languages/C Sharp",
-    "Development/Languages/Typescript",
-    "Development/Languages/Javascript",
-    "Development/Areas/Frontend/Sin título.canvas",
+    "IT Knowledge/Architectures/Hub-Architectures.md",
+    "IT Knowledge/Development/Hub-Development.md",
+    "IT Knowledge/Development/Languages/Hub-Languages.md",
+    "IT Knowledge/Development/Languages/C Sharp/Hub - CSharp.md",
+    "IT Knowledge/Development/Languages/Javascript/Hub-Javascript.md",
+    "IT Knowledge/IT-Knowledge.md",
+    "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
+    "IT Knowledge/Development/Technologies/Tanstack Query/Definition.md",
+    "IT Knowledge/Development/Technologies/Tanstack Query/Example.md",
+    "IT Knowledge/Architectures/Architecture-Software.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Model View Controller architecture.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Layered architecture.md",
+    "Limbo/Arquitectura en capas.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Microservices architecture.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Serverless architecture.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Monolithic architecture.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Hexagonal architecture.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Event driven architecture.md",
+    "IT Knowledge/Architectures/Architecture-Systems.md",
+    "IT Knowledge/Architectures/Architecture-Software/Types/Arch-Soft_Types.md",
+    "IT Knowledge/Architectures/Architecture-Software/Types/Architecture.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types/Types",
+    "Limbo/Monolítica.md",
+    "Limbo/Types.md",
+    "IT Knowledge/Architectures/Types Arch-Software/Types.md",
+    "--templater/templates/it-kw-template-between-01.md",
+    "--templater/templates/it-kw-template-01.md",
+    "IT Knowledge/Architectures/Architecture-Software-Types",
+    "IT Knowledge/Development/Technologies/Tanstack Query",
+    "IT Knowledge/Development/Concepts/Framework",
+    "IT Knowledge/Development/Concepts/Library",
+    "IT Knowledge/Architectures",
+    "IT Knowledge/Development/Technologies",
+    "IT Knowledge/Development/Concepts",
+    "IT Knowledge/Development/Programming languages/Concepts",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas",
     "Sin título.canvas",
-    "Development/Paradigms",
-    "--files/docs",
-    "2024-10-23.md",
+    "Development/Areas/Frontend/Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas"
   ]

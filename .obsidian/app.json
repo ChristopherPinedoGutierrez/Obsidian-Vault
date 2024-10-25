@@ -1,6 +1,10 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "--limbo",
-  "attachmentFolderPath": "--files"
+  "newFileFolderPath": "Limbo",
+  "attachmentFolderPath": "--files",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "--templater/"
+  ]
 }

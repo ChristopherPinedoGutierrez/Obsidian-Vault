@@ -1,22 +1,26 @@
 {
   "command_timeout": 5,
-  "templates_folder": "--templates",
+  "templates_folder": "--templater/templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "--templater/scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "IT Knowledge",
+      "template": "--templater/templates/it-kw-template-01.md"
+    },
+    {
+      "folder": "ISIL",
+      "template": "--templater/templates/isil-template-01.md"
     }
   ],
   "enable_file_templates": false,
@@ -29,9 +33,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "--templater/templates/it-template-01.md"
   ],
-  "startup_templates": [
-    ""
-  ]
+  "startup_templates": []
 }

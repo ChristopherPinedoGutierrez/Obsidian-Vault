@@ -1,0 +1,20 @@
+---
+creation Date: 2024-10-25 14:00
+last modification: " 2024-10-25 14:01"
+folder: Types Arch-Software
+aliases:
+  - Arquitectura en capas
+tags:
+---
+___
+**Relacionado**
+
+[[Architecture-Software|Arquitectura de software]]
+___
+
+___
+- **Descripción**: La arquitectura de capas organiza la aplicación en capas que separan las responsabilidades (por ejemplo, presentación, lógica de negocio y acceso a datos). Cada capa puede interactuar solo con las capas adyacentes.
+- **Utilización**:
+    - Útil en aplicaciones donde se requiere una clara separación de preocupaciones.
+    - Proyectos que necesitan mantener la estructura y la organización a medida que crecen.
+- **Ejemplo**: Una aplicación empresarial con una capa de presentación (UI), una capa de servicios (lógica de negocio) y una capa de persistencia (acceso a datos).

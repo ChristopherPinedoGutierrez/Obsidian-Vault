@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09ce0430c8d0352b",
+        "id": "15071d17837e61dd",
         "type": "tabs",
         "children": [
           {
-            "id": "02a61a38d4f57bf5",
+            "id": "e09783fa76314be6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hub - Tanstack Query"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:P-FUNC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 435.5
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Hub - Tanstack Query"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Hub - Tanstack Query"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -169,12 +163,12 @@
               "title": "Todas las propiedades"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 210.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,44 +183,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9716e9111ce6152e",
+  "active": "e09783fa76314be6",
   "lastOpenFiles": [
-    "IT Knowledge/Architectures/Hub-Architectures.md",
-    "IT Knowledge/Development/Hub-Development.md",
-    "IT Knowledge/Development/Languages/Hub-Languages.md",
+    "IT Knowledge/Information-Technology.md",
+    "ISIL/Institute-San-Ignacio-Loyola.md",
+    "IT Knowledge/Development/Languages/SQL/Hub - SQL.md",
+    "IT Knowledge/Development/Languages/SQL/Sin título.md",
     "IT Knowledge/Development/Languages/C Sharp/Hub - CSharp.md",
-    "IT Knowledge/Development/Languages/Javascript/Hub-Javascript.md",
-    "IT Knowledge/IT-Knowledge.md",
-    "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md",
-    "IT Knowledge/Development/Technologies/Tanstack Query/Definition.md",
-    "IT Knowledge/Development/Technologies/Tanstack Query/Example.md",
-    "IT Knowledge/Architectures/Architecture-Software.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Model View Controller architecture.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Layered architecture.md",
-    "Limbo/Arquitectura en capas.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Microservices architecture.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Serverless architecture.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Monolithic architecture.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Hexagonal architecture.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Event driven architecture.md",
-    "IT Knowledge/Architectures/Architecture-Systems.md",
-    "IT Knowledge/Architectures/Architecture-Software/Types/Arch-Soft_Types.md",
-    "IT Knowledge/Architectures/Architecture-Software/Types/Architecture.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types/Types",
-    "Limbo/Monolítica.md",
-    "Limbo/Types.md",
-    "IT Knowledge/Architectures/Types Arch-Software/Types.md",
-    "--templater/templates/it-kw-template-between-01.md",
-    "--templater/templates/it-kw-template-01.md",
-    "IT Knowledge/Architectures/Architecture-Software-Types",
-    "IT Knowledge/Development/Technologies/Tanstack Query",
-    "IT Knowledge/Development/Concepts/Framework",
-    "IT Knowledge/Development/Concepts/Library",
-    "IT Knowledge/Architectures",
-    "IT Knowledge/Development/Technologies",
-    "IT Knowledge/Development/Concepts",
-    "IT Knowledge/Development/Programming languages/Concepts",
-    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas",
+    "IT Knowledge/Development/Languages/Typescript/Hub-Typescript.md",
+    "IT Knowledge/Development/Languages/Development-Languages.md",
+    "IT Knowledge/Architectures/Architecture Software Types/Event driven architecture.md",
+    "IT Knowledge/Architectures/Architecture Software Types/Hexagonal architecture.md",
+    "IT Knowledge/Architectures/Systems-Architecture.md",
+    "IT Knowledge/Architectures/Software-Architecture.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Design-Patterns.md",
+    "IT Knowledge/Architectures/Hub-Architectures.md",
+    "Global-Knowledge.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Creational patterns/Creational-Design-Patterns.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Visitor-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Chain-of-Responsibility-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Template-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Strategy-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/State-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Memento-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Observer-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Mediator-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Iterator-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Interpreter-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns/Command-Pattern.md",
+    "IT Knowledge/Development/Patterns/Design patterns/Structural patterns/Patterns",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns",
+    "IT Knowledge/Development/Patterns/Design patterns/Creational patterns/Patterns",
+    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns",
+    "IT Knowledge/Development/Patterns/Design patterns/Structural patterns",
+    "IT Knowledge/Development/Patterns/Antipatterns",
+    "IT Knowledge/Development/Patterns/Teams and process organization patterns",
+    "IT Knowledge/Development/Patterns/Devops and deploy patterns",
+    "IT Knowledge/Development/Patterns/Design patterns/Creational patterns",
+    "IT Knowledge/Development/Patterns/Architecture Patterns",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",
     "Sin título 2.canvas",

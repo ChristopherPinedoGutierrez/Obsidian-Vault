@@ -10,7 +10,7 @@ tags:
 ___
 **Relacionado**
 
-- [[Hub-Architectures|Centro de arquitectura]]
+- [[Hub-Architectures]]
 ___
 **Tabla de contenidos**
 
@@ -79,9 +79,9 @@ La arquitectura de software se refiere a las decisiones de alto nivel en el dise
 **1. [[Layered architecture|Arquitectura en capas]]**
 
 - **Motivo**: La arquitectura en capas es una de las formas más fundamentales de estructurar una aplicación. Te ayudará a comprender cómo separar responsabilidades y gestionar la interacción entre diferentes componentes. Esto sentará las bases para entender arquitecturas más complejas.
-- **Prerequisitos**: Conocimientos básicos de programación y diseño de software.
+- **Prerrequisitos**: Conocimientos básicos de programación y diseño de software.
 
-**2. [[Model View Controller architecture|Arquitectura modelo vista controlador]]
+**2. [[Model View Controller architecture|Arquitectura modelo vista controlador]] #MVC
 
 - **Motivo**: MVC es un patrón muy utilizado en el desarrollo de aplicaciones web y de escritorio. Te enseñará cómo separar la lógica de la presentación y la manipulación de datos, lo que es fundamental para cualquier desarrollo de software moderno.
 - **Prerequisitos**: Familiaridad con la arquitectura en capas, ya que MVC se basa en la separación de preocupaciones.

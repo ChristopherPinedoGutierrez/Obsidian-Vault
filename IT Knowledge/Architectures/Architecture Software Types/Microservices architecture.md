@@ -10,7 +10,7 @@ tags:
 ___
 **Relacionado**
 
-[[Architecture-Software|Arquitectura de software]]
+[[Software-Architecture|Arquitectura de software]]
 ___
 **Tabla de contenidos**
 

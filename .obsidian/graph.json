@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Software-Architecture",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Design-Patterns",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Development-Languages",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Global-Knowledge",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 0.999012474012474,
+  "lineSizeMultiplier": 1.99734927234927,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 9.65696465696466,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.27268599173600716,
-  "close": false
+  "linkDistance": 200,
+  "scale": 0.13873223932666418,
+  "close": true
 }

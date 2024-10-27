@@ -8,4 +8,4 @@ tags:
 ___
 # Base
 
-- [[IT-Knowledge]]
+- [[Information-Technology]]

@@ -7,11 +7,13 @@ aliases:
 tags:
   - JS
   - Javascript
+  - POO
+  - PFunc
 ---
 ___
 
 # Base
 
-- [[Hub-Languages]]
+- [[Development-Languages]]
 
 # Core

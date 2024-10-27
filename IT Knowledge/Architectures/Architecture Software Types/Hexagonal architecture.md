@@ -9,7 +9,7 @@ tags:
 ___
 **Relacionado**
 
-
+[[Software-Architecture|Arquitectura de software]]
 ___
 
 ___

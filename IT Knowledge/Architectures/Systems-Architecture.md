@@ -9,7 +9,7 @@ tags:
 ---
 ___
 **Relacionado**
-[[Hub-Architectures|Centro de arquitectura]]
+[[Hub-Architectures]]
 ___
 
 ___

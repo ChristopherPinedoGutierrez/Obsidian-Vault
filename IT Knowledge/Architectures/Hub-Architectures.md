@@ -2,15 +2,14 @@
 creation Date: 2024-10-25 13:04
 last modification: " 2024-10-25 13:04"
 folder: Architectures
-aliases:
-  - Centro de arquitectura
+aliases: []
 tags:
 ---
 ___
 # Base
 
-- [[IT-Knowledge]]
+- [[Information-Technology]]
 # Core
 
-- [[Architecture-Software|Arquitectura de software]]
-- [[Architecture-Systems|Arquitectura de sistemas]]
+- [[Software-Architecture|Arquitectura de software]]
+- [[Systems-Architecture|Arquitectura de sistemas]]

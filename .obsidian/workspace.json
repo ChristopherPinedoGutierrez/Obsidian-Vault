@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cefb7009765ec723",
+        "id": "9a359ed6d857d2f7",
         "type": "tabs",
         "children": [
           {
-            "id": "021aa783dce6d986",
+            "id": "1566ccd81cea0dc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT Knowledge/Development/Languages/Typescript/Hub-Typescript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hub-Typescript"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 324.5
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -171,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,44 +182,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27326e77db54ba43",
+  "active": "1566ccd81cea0dc5",
   "lastOpenFiles": [
-    "IT Knowledge/Development/Languages/SQL/Hub-SQL.md",
-    "IT Knowledge/Development/Languages/SQL/Resources/SQL-Bolt.md",
-    "IT Knowledge/Development/Languages/Javascript/Hub-Javascript.md",
-    "IT Knowledge/Development/Database/Concepts/Formats.md",
-    "IT Knowledge/Development/Database/Development-Database.md",
-    "IT Knowledge/Development/Database/Concepts/Concepts.md",
-    "IT Knowledge/Architectures/Systems Architectures/Systems-Architecture.md",
-    "IT Knowledge/Architectures/Systems Architectures",
-    "IT Knowledge/Architectures/Software Architectures/8. Component-Based-Architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/Software-Architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/7. Monolithic architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/6. Serverless architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/5. Microservices architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/3. Hexagonal architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/4. Event driven architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/2. Model View Controller architecture.md",
-    "IT Knowledge/Architectures/Software Architectures/1. Layered architecture.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/Sub-Languages.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/5. Data-Query-Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/4. Transaction Control Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/3. Data-Control-Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/2. Data-Manipulation-Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/1. Data-Definition-Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages",
-    "IT Knowledge/Development/Languages/SQL/Resources",
-    "IT Knowledge/Development/Database/Concepts",
-    "IT Knowledge/Development/Languages/Development-Languages.md",
-    "IT Knowledge/Development/Database",
-    "IT Knowledge/Information-Technology.md",
-    "ISIL/Institute-San-Ignacio-Loyola.md",
-    "IT Knowledge/Development/Languages/SQL/Sin título.md",
-    "IT Knowledge/Development/Patterns/Design patterns/Structural patterns/Patterns",
-    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns/Patterns",
-    "IT Knowledge/Development/Patterns/Design patterns/Creational patterns/Patterns",
-    "IT Knowledge/Development/Patterns/Design patterns/Behavioral patterns",
-    "IT Knowledge/Development/Patterns/Design patterns/Structural patterns",
+    "IT Knowledge/Development/Patterns/Teams and process organization patterns/1. Kanban-Pattern.md",
+    "IT Knowledge/Development/Patterns/Teams and process organization patterns/1. Scrum-Pattern.md",
+    "IT Knowledge/Development/Patterns/Teams and process organization patterns/Teams-and-Process-Organization-Patterns.md",
+    "IT Knowledge/Development/Patterns/Data management patterns/Data-Management-Patterns.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent/Concurrent-Hooks.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent/useDeferredValue-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent/useTransition-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference/useRef-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference/useImperativeHandle-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference/Reference-Hooks.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization/Memorization-Hooks.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization/useCallback-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization/useMemo-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Debugging/Debugging-Hooks.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Debugging/useDebugValue-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context/useId-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context/useContext-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context/Context-Hooks.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/useInsertionEffect-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/useLayoutEffect-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/useEffect-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management/useReducer-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management/useState-Hook.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/Effects-and-Lifecycle-Hooks.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management/State-Management-Hooks.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Debugging",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Versions/React-Versions.md",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Optimization",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Versions",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",
     "Sin título 2.canvas",

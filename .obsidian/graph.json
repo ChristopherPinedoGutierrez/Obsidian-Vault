@@ -8,51 +8,65 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "",
+      "query": "Architectures",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "",
+      "query": "Hub-Typescript",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "",
+      "query": "Hub-Algoritms",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "Data-Structures",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Hub-Javascript",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Hub-React-Js",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Design-Patterns",
       "color": {
         "a": 1,
         "rgb": 11621088
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.999012474012474,
-  "lineSizeMultiplier": 1.99734927234927,
+  "nodeSizeMultiplier": 1.99989604989605,
+  "lineSizeMultiplier": 3.99656964656965,
   "collapse-forces": false,
-  "centerStrength": 0.250519750519751,
-  "repelStrength": 14.989604989605,
-  "linkStrength": 0.745322245322245,
-  "linkDistance": 150,
-  "scale": 0.3823010968770134,
-  "close": false
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.16348370567220863,
+  "close": true
 }

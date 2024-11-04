@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a359ed6d857d2f7",
+        "id": "a7f38cdbf3b20cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "1566ccd81cea0dc5",
+            "id": "5cb7af76ed942b08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/2. Everyday types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Everyday types"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 288.5110321044922
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT Knowledge/Development/Algoritmos/Development-Algoritms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Development-Algoritms"
             }
           },
           {
@@ -167,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +188,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1566ccd81cea0dc5",
+  "active": "5cb7af76ed942b08",
   "lastOpenFiles": [
+    "--files/Pasted image 20241103145059.png",
+    "--files/Pasted image 20241103144149.png",
+    "--files/Pasted image 20241103143328.png",
+    "--files/Pasted image 20241103142735.png",
+    "--files/Pasted image 20241103142323.png",
+    "--files/Pasted image 20241103141657.png",
+    "--files/Pasted image 20241103141515.png",
+    "--files/Pasted image 20241103140824.png",
+    "--files/Pasted image 20241103130457.png",
+    "Limbo/Pasted image 20241103130037.png.md",
+    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/2. Everyday types.md",
+    "--files/Pasted image 20241103130037.png",
+    "--files/Pasted image 20241103125925.png",
+    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/Handbook-Docs.md",
+    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/1. Basics.md",
+    "Limbo/TS-Docs-Handbook-Basics-1.md",
+    "IT Knowledge/Development/Languages/Typescript/Docs/Docs-Typescript.md",
+    "IT Knowledge/Development/Languages/Typescript/Hub-Typescript.md",
+    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook",
+    "IT Knowledge/Development/Languages/Typescript/Docs",
+    "IT Knowledge/Development/Algoritmos/Development-Algoritms.md",
+    "IT Knowledge/Development/Algoritmos/Algoritms notation/1. Big-O-Notation.md",
+    "Sciences/Mathematic/Mathematic.md",
+    "Sciences/Mathematic/Logaritms.md",
+    "Sciences/Mathematic/Exponents.md",
+    "Global-Knowledge.md",
+    "Sciences/Sciences.md",
+    "Sciences/Mathematic",
+    "Sciences/Sin título.md",
+    "Sciences",
+    "IT Knowledge/Development/Algoritmos/Search algoritms/2. Binary-Search-Algoritm.md",
+    "IT Knowledge/Development/Algoritmos/Search algoritms/1. Linear-Search-Algoritm.md",
+    "IT Knowledge/Development/Algoritmos/Search algoritms/Search-Algoritms.md",
     "IT Knowledge/Development/Patterns/Teams and process organization patterns/1. Kanban-Pattern.md",
     "IT Knowledge/Development/Patterns/Teams and process organization patterns/1. Scrum-Pattern.md",
     "IT Knowledge/Development/Patterns/Teams and process organization patterns/Teams-and-Process-Organization-Patterns.md",
@@ -191,35 +230,12 @@
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent/Concurrent-Hooks.md",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent/useDeferredValue-Hook.md",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent/useTransition-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference/useRef-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference/useImperativeHandle-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference/Reference-Hooks.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization/Memorization-Hooks.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization/useCallback-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization/useMemo-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Debugging/Debugging-Hooks.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Debugging/useDebugValue-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context/useId-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context/useContext-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context/Context-Hooks.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/useInsertionEffect-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/useLayoutEffect-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/useEffect-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management/useReducer-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management/useState-Hook.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle/Effects-and-Lifecycle-Hooks.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management/State-Management-Hooks.md",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Debugging",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Reference",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Memorization",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Context",
     "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Effects and lifecycle",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/State management",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Versions/React-Versions.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Optimization",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Versions",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",
     "Sin título 2.canvas",

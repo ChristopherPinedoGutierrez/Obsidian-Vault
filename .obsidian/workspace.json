@@ -163,7 +163,8 @@
               "title": "Todas las propiedades"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",

@@ -1,5 +1,5 @@
 # TO:
 
 - [[Information-Technology|Tecnologias de información]]
-- [[Institute-San-Ignacio-Loyola]]
+- [[Instituto-San-Ignacio-Loyola]]
 - [[Sciences]]

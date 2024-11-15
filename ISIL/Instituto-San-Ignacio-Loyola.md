@@ -1,7 +1,8 @@
 ---
 aliases:
   - ISIL
-tags: []
+tags:
+  - ISIL
 ---
 
 | Fecha de creación            | 2024-10-26 14:37      |

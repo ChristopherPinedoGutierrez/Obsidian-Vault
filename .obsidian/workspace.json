@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f38cdbf3b20cd2",
+        "id": "0546487c307ef2c0",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb7af76ed942b08",
+            "id": "0f8797256868f1bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Knowledge/Areas/AI/AI-Area.md",
+                "file": "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/10. Elicitación de requisitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Area"
+              "title": "10. Elicitación de requisitos"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50418853759766
+    "width": 501.50418853759766
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -167,13 +167,25 @@
               "icon": "lucide-archive",
               "title": "Todas las propiedades"
             }
+          },
+          {
+            "id": "4c6efccb5d41fa6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "ISIL/2024-02/1621-DireccionDePersonas/1. Definición y modelo de competencias.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propiedades de los archivos para 1. Definición y modelo de competencias"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,54 +201,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cb7af76ed942b08",
+  "active": "0f8797256868f1bd",
   "lastOpenFiles": [
-    "IT Knowledge/Areas/AI/Roles/Prompt-Engineering.md",
-    "IT Knowledge/Areas/AI/Roles/AI-Roles.md",
-    "IT Knowledge/Areas/AI/AI-Area.md",
-    "IT Knowledge/Areas/Areas-Hub.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/10. Elicitación de requisitos.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Análisis-y-diseño-de-sistemas.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Diagrama general.canvas",
+    "Limbo/Diagrama de casos de uso.md",
+    "Limbo/Matriz de trazabilidad.md",
+    "Limbo/TS-Docs-Handbook-Basics-1.md",
+    "Limbo/Pasted image 20241103130037.png.md",
+    "--files/Pasted image 20241114112000.png",
+    "--files/Pasted image 20241114110014.png",
+    "--files/Pasted image 20241114105948.png",
+    "--files/Pasted image 20241114105553.png",
+    "--files/Pasted image 20241114105532.png",
+    "--files/Pasted image 20241114105246.png",
+    "--files/Pasted image 20241114105228.png",
+    "--files/Pasted image 20241114102237.png",
+    "--files/Pasted image 20241114102218.png",
+    "--files/Pasted image 20241114101936.png",
+    "ISIL/2024-02/Ciclo-2024-02.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo/9. Cultura colaborativa de equipo.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/12. Prototipado e interfaz de usuario.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/11. Especificación de requisitos.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/9. Proceso RUP.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/7. Metodologías para el desarrollo de sistemas.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/6. El ciclo de vida del desarrollo de sistemas.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/5. Estimación del desarrollo de sistemas.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/2. Conceptualización de liderazgo.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/4. Plan de desarrollo de sistemas.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/3. Tipos de sistemas de información.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/2. El rol del analista de sistemas.md",
+    "Limbo/Sin título.md",
+    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/1. Introducción a los sistemas de información.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/1. Competencia/1. Definición y modelo de competencias.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/Dirección-de-personas.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo",
+    "ISIL/2024-02/1621-DireccionDePersonas/3. Motivación",
+    "ISIL/2024-02/1621-DireccionDePersonas/1. Competencia",
+    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/3. Tipos y estilos de liderazgo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/Liderazgo/Liderazgo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo",
+    "--templater/templates/isil-template-01.md",
     "IT Knowledge/Areas/AI/Roles",
     "IT Knowledge/Areas/AI",
-    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/3. Narrowing.md",
     "IT Knowledge/Areas",
-    "IT Knowledge/Roles/Roles-Hub.md",
-    "IT Knowledge/Roles/Sin título.md",
     "IT Knowledge/Roles",
-    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/Handbook-Docs.md",
-    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/2. Everyday types.md",
-    "IT Knowledge/Development/Languages/Typescript/Docs/Docs-Typescript.md",
-    "IT Knowledge/Development/Languages/Typescript/Docs/Handbook/1. Basics.md",
-    "--files/Pasted image 20241104130226.png",
-    "--files/Pasted image 20241104125549.png",
-    "--files/Pasted image 20241104125038.png",
-    "--files/Pasted image 20241103145059.png",
-    "--files/Pasted image 20241103144149.png",
-    "--files/Pasted image 20241103143328.png",
-    "--files/Pasted image 20241103142735.png",
-    "--files/Pasted image 20241103142323.png",
-    "--files/Pasted image 20241103141657.png",
-    "--files/Pasted image 20241103141515.png",
-    "Limbo/Pasted image 20241103130037.png.md",
-    "Limbo/TS-Docs-Handbook-Basics-1.md",
-    "IT Knowledge/Development/Languages/Typescript/Hub-Typescript.md",
     "IT Knowledge/Development/Languages/Typescript/Docs/Handbook",
     "IT Knowledge/Development/Languages/Typescript/Docs",
-    "IT Knowledge/Development/Algoritmos/Development-Algoritms.md",
-    "IT Knowledge/Development/Algoritmos/Algoritms notation/1. Big-O-Notation.md",
-    "Sciences/Mathematic/Mathematic.md",
-    "Sciences/Mathematic/Logaritms.md",
-    "Sciences/Mathematic/Exponents.md",
-    "Global-Knowledge.md",
-    "Sciences/Sciences.md",
-    "Sciences/Mathematic",
-    "Sciences/Sin título.md",
-    "Sciences",
-    "IT Knowledge/Development/Algoritmos/Search algoritms/2. Binary-Search-Algoritm.md",
-    "IT Knowledge/Development/Algoritmos/Search algoritms/1. Linear-Search-Algoritm.md",
-    "IT Knowledge/Development/Algoritmos/Search algoritms/Search-Algoritms.md",
-    "IT Knowledge/Development/Patterns/Teams and process organization patterns/1. Kanban-Pattern.md",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Debugging",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Hooks/Concurrent",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",
     "Sin título 2.canvas",

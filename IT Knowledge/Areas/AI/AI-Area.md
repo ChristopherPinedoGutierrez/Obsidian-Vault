@@ -6,11 +6,7 @@ tags:
 ---
 ___
 #### BASE
-- [[Areas-Hub]]
-#### RELATED
-- 
-#### CORE
-- 
+- [[Hub-Areas]]
 ___
 
 ___

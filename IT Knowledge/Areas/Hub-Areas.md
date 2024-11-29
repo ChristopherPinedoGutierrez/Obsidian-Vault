@@ -7,10 +7,11 @@ tags:
 ___
 #### BASE
 - [[Information-Technology|IT]]
-#### RELATED
-- 
-#### CORE
-- 
+
+## TEMAS
+
+- [[AI-Area]]
+- [[Frontend-Area]]
 ___
 
 ___

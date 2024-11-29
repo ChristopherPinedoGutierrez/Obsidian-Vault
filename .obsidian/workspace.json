@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5800de77bcf3e6d",
+        "id": "f7619fb3457eece5",
         "type": "tabs",
         "children": [
           {
-            "id": "30e5e4bc5fb2676e",
+            "id": "e53cefbc246fe5a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/5. Listas enlazadas.md",
+                "file": "ISIL/2024-02/2283-GestionDeLaCreatividadEInnovacion/Gestión-de-la-creatividad-e-innovación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Listas enlazadas"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4ce351452f292e6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fbc7bd038fd06642",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Gestión-de-la-creatividad-e-innovación"
             }
           }
         ]
@@ -93,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.50418853759766
+    "width": 433.50418853759766
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -217,38 +201,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30e5e4bc5fb2676e",
+  "active": "e53cefbc246fe5a0",
   "lastOpenFiles": [
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/Algoritmos-y-estructuras-de-datos.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/5. Listas enlazadas.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/1. Estructuras de datos y algoritmos.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/4. Arreglos bidimensionales.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/15. Árboles binarios ordenados.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/14. Árboles.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/13. Grafos.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/12. Recursividad 2.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/11. Recursividad 1.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/10. Colas.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/9. Pilas.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/7. Listas circulares y listas dobles.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/6. Listas enlazadas simples.md",
+    "ISIL/2024-02/2283-GestionDeLaCreatividadEInnovacion/15. Proyecto creativo 2.md",
+    "ISIL/2024-02/2283-GestionDeLaCreatividadEInnovacion/Gestión-de-la-creatividad-e-innovación.md",
+    "ISIL/2024-02/2283-GestionDeLaCreatividadEInnovacion/9. Modelos de negocio - Modelo CANVAS.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/Gestión-de-procesos-simulación-y-mejora-continua.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/2. Procesos estratégicos, operativos y de soporte.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/1. 14.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/15. Modelos de excelencia.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/14. Herramientas de la calidad.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/13. Gestión de la calidad, ISO-9001-2015.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/12. Gestión de la calidad - Ciclo PHVA.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/11. Six Sigma.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/10. Filosofía Lean thinking.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/9. Introducción a Bizagi Modeler.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/7. BPM - Business Process Management.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/6. KPI´s.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/5. Descripción de procesos.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/4. Mapa de procesos.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/3. Gestión basada en procesos.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/1. Satisfacción del cliente, modelo KANO, voz del cliente y CTQ´s.md",
+    "ISIL/2024-02/2369-GestionDeProcesosSimulacionYMejoraContinua/1. 1 1.md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/Desarrollo-de-resiliencia.md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/12..md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/9..md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/6..md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/5. Impulsividad.md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/4. Conceptualización de los impulsos y técnicas de control.md",
+    "IT Knowledge/Areas/Frontend/Roles",
+    "IT Knowledge/Areas/Frontend",
     "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/Sin nombre",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/3. Búsqueda y ordenamiento.md",
     "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/Algoritmos",
     "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/Estructuras de datos",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/2. Arreglos unidimensionales.md",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/Desarrollo-de-resiliencia.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/Dirección-de-personas.md",
-    "IT Knowledge/Development/Languages/SQL/Normal Forms/Normal-Forms.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/Sub-Languages.md",
     "IT Knowledge/Development/Languages/SQL/Normal Forms",
-    "ISIL/2024-02/3079-ProgramacionAvanzadaDeBasesDeDatos/3. Tipos de consultas - 2.md",
-    "ISIL/2024-02/3079-ProgramacionAvanzadaDeBasesDeDatos/2. Tipos de consultas - 1.md",
-    "ISIL/2024-02/3079-ProgramacionAvanzadaDeBasesDeDatos/1. Implementación de bases de datos.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/1. Data-Definition-Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/2. Data-Manipulation-Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/3. Data-Control-Language.md",
-    "IT Knowledge/Development/Languages/SQL/Sub Languages/4. Transaction Control Language.md",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Diagrama general.canvas",
     "--files/Pasted image 20241114112000.png",
     "--files/Pasted image 20241114110014.png",
@@ -264,8 +250,6 @@
     "ISIL/2024-02/1621-DireccionDePersonas/3. Motivación",
     "ISIL/2024-02/1621-DireccionDePersonas/1. Competencia",
     "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo",
-    "IT Knowledge/Areas/AI/Roles",
-    "IT Knowledge/Areas/AI",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",
     "Sin título 2.canvas",

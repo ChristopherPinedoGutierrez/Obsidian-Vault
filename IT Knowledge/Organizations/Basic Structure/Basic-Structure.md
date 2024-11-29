@@ -8,7 +8,7 @@ tags:
 ___
 **Relacionado**
 
-[[Organizations]]
+[[Hub-Organizations]]
 ___
 **Tabla de contenidos**
 

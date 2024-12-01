@@ -21,3 +21,6 @@ ___
 - [[10. Elicitación de requisitos]]
 - [[11. Especificación de requisitos]]
 - [[12. Prototipado e interfaz de usuario]]
+- [[13. Plan de pruebas del sistema]]
+- [[14. Modelamiento UML]]
+- [[15. Integración del análisis de sistemas]]

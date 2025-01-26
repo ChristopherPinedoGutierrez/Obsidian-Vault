@@ -11,10 +11,14 @@
             "id": "e53cefbc246fe5a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "ISIL/2024-02/1588-DesarrolloDeResiliencia/14. Herramientas para la gestión del tiempo y delegación de actividades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Herramientas para la gestión del tiempo y delegación de actividades"
             }
           }
         ]
@@ -175,14 +179,23 @@
               "icon": "lucide-info",
               "title": "Propiedades de los archivos para 1. Definición y modelo de competencias"
             }
+          },
+          {
+            "id": "ad0dab26962ac4a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +212,9 @@
   },
   "active": "e53cefbc246fe5a0",
   "lastOpenFiles": [
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/Desarrollo-de-resiliencia.md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/13. Gestión del tiempo 2.md",
+    "ISIL/2024-02/1588-DesarrolloDeResiliencia/12. Gestión del tiempo 1.md",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Análisis-y-diseño-de-sistemas.md",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/15. Integración del análisis de sistemas.md",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/14. Modelamiento UML.md",
@@ -215,17 +231,14 @@
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/2. El rol del analista de sistemas.md",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/1. Introducción a los sistemas de información.md",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Diagrama general.canvas",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/12. Gestión del tiempo 1.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/15. Fortalezas y debilidades.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/14. Herramientas para la gestión del tiempo y delegación de actividades.md",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/13. Gestión del tiempo 2.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/11. Técnicas de afrontamiento.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/10. Tipos de Estrés.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/9. Estrés.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/7. Técnicas y estrategias de control 2.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/6. Técnicas y estrategias de control 1.md",
     "ISIL/2024-02/1588-DesarrolloDeResiliencia/5. Impulsividad.md",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/4. Conceptualización de los impulsos y técnicas de control.md",
     "IT Knowledge/Areas/Frontend/Roles",
     "IT Knowledge/Areas/Frontend",
     "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/Sin nombre",

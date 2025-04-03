@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d93f46669e2cf57a",
+        "id": "e2356711fef3cf2b",
         "type": "tabs",
         "children": [
           {
-            "id": "b308a8ff32d7f034",
+            "id": "a6d67775ec0cf1fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISIL/2025-00/1764-IdiomaExtrangero-1/8. Speak About Your Hobbies/1. Vocabulary.md",
+                "file": "ISIL/2025-00/1764-IdiomaExtrangero-1/Idioma extranjero 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Vocabulary"
+              "title": "Idioma extranjero 1"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.50418853759766
+    "width": 415.5110321044922
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Knowledge/Development/Technologies/Tanstack Query/Hub - Tanstack Query.md"
+                "file": "ISIL/2025-00/1764-IdiomaExtrangero-1/Idioma extranjero 1.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Hub - Tanstack Query"
+              "title": "Esquema de Idioma extranjero 1"
             }
           },
           {
@@ -210,44 +210,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b308a8ff32d7f034",
+  "active": "9716e9111ce6152e",
   "lastOpenFiles": [
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/8. Speak About Your Hobbies/2. Nouns (Singular & Plural).md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/8. Speak About Your Hobbies/1. Vocabulary.md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/2. Introduce Yourself/1. Present Simple ('to be').md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/1. Give Your Personal Information/2. Asking for a Giving the Date.md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/1. Give Your Personal Information/1. Pronouns (I, me, etc.).md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/8. Speak About Your Hobbies",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/7. Talk About Your Hobbies",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/6. Talk About Your Daily Routine",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/5. Describe Your Friends",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/4. Introduce Your Family",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/3. Meet Other People",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/2. Introduce Yourself",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/1. Give Your Personal Information",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Preparacion de A2 a B2.md",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases",
     "ISIL/2025-00/1764-IdiomaExtrangero-1/Idioma extranjero 1.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/Gestión de proyectos.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/Algoritmos-y-estructuras-de-datos.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/7. Planificación del Tiempo del Proyecto - Parte 2.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/6. Planificación del Tiempo del Proyecto - Parte 1.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/1. Marco general - Parte 1.md",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/8. Speak About Your Weekend Activities/2. Nouns (Singular & Plural).md",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/1. Give Your Personal Information/1. Pronouns (I, me, etc.).md",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/9. Describe the Plans for the Day/2. Prepositions (of time).md",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/9. Describe the Plans for the Day/1. Will (for Offers & Decisions).md",
     "ISIL/2025-00/1286-GestiónDeProyectos/2. Marco General - Parte 2.md",
     "ISIL/2025-00/1286-GestiónDeProyectos/3. Iniciación - Elaboración del Acta de Constitución.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/4. Planificación del Alcance del Proyecto - Parte 1.md",
     "ISIL/2025-00/1286-GestiónDeProyectos/5. Planificación del Alcance del Proyecto - Parte 2.md",
-    "ISIL/2025-00/Ciclo-2025-00.md",
-    "--templater/templates/isil-template-01.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/1. Resiliencia y control de impulsos.md",
-    "ISIL/2024-02/1072-AlgoritmoYEstructuraDeDatos/1. Estructuras de datos y algoritmos.md",
-    "ISIL/Instituto-San-Ignacio-Loyola.md",
-    "ISIL/2024-02/Ciclo-2024-02.md",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/14. Herramientas para la gestión del tiempo y delegación de actividades.md",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/Desarrollo-de-resiliencia.md",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/13. Gestión del tiempo 2.md",
-    "ISIL/2024-02/1588-DesarrolloDeResiliencia/12. Gestión del tiempo 1.md",
-    "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Análisis-y-diseño-de-sistemas.md",
+    "ISIL/2025-00/1286-GestiónDeProyectos/6. Planificación del Tiempo del Proyecto - Parte 1.md",
+    "ISIL/2025-00/1286-GestiónDeProyectos/7. Planificación del Tiempo del Proyecto - Parte 2.md",
+    "IT Knowledge/SAP/SAP Business One.md",
+    "IT Knowledge/SAP/Roles.md",
+    "IT Knowledge/SAP/SAP.md",
+    "IT Knowledge/Information-Technology.md",
+    "IT Knowledge/SAP",
+    "IT Knowledge/AI/FCC path/AI Roadmap.md",
+    "IT Knowledge/AI/FCC path",
+    "IT Knowledge/AI",
+    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/4. Liderazgo transformacional, tipos de poder y tácticas de influencia.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/3. Tipos y estilos de liderazgo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/2. Conceptualización de liderazgo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/Dirección-de-personas.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo/11. Disfunciones en el trabajo en equipo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo/10. Competencias del trabajo en equipo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo/9. Cultura colaborativa de equipo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/3. Motivación/7. Dinamismo.md",
+    "ISIL/2024-02/1621-DireccionDePersonas/3. Motivación/6. Empoderamiento.md",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/24. Talk About Your Next Holiday",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/23. Speak About When You Were a Student",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/22. Speak About What You Did at the Weekend",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/21. Talk About Clothes You Like or Dislike",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/20. Give Directions/2. Imperative",
+    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/20. Give Directions",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Diagrama general.canvas",
     "--files/Pasted image 20241114112000.png",
     "--files/Pasted image 20241114110014.png",

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2356711fef3cf2b",
+        "id": "432da9a9ec9c4872",
         "type": "tabs",
         "children": [
           {
-            "id": "a6d67775ec0cf1fe",
+            "id": "10af1f62edd81738",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISIL/2025-00/1764-IdiomaExtrangero-1/Idioma extranjero 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Idioma extranjero 1"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PENDIENTE ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5110321044922
+    "width": 339.50418853759766
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -93,8 +89,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Knowledge/Development/Algoritmos/Development-Algoritms.md",
-                "collapseAll": false,
+                "file": "ISIL/2025-01/English Level B1-2-4630/Classes/2nd Class.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Development-Algoritms"
+              "title": "Enlaces entrantes de 2nd Class"
             }
           },
           {
@@ -112,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ISIL/2025-01/English Level B1-2-4630/Classes/2nd Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de 2nd Class"
             }
           },
           {
@@ -138,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISIL/2025-00/1764-IdiomaExtrangero-1/Idioma extranjero 1.md"
+                "file": "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/2. Oportunidades de negocio.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Idioma extranjero 1"
+              "title": "Esquema de 2. Oportunidades de negocio"
             }
           },
           {
@@ -174,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ISIL/2024-02/1621-DireccionDePersonas/1. Definición y modelo de competencias.md"
+                "file": "ISIL/2025-01/English Level B1-2-4630/Classes/2nd Class.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para 1. Definición y modelo de competencias"
+              "title": "Propiedades de los archivos para 2nd Class"
             }
           },
           {
@@ -212,52 +209,52 @@
   },
   "active": "9716e9111ce6152e",
   "lastOpenFiles": [
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Preparacion de A2 a B2.md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Idioma extranjero 1.md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/8. Speak About Your Weekend Activities/2. Nouns (Singular & Plural).md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/1. Give Your Personal Information/1. Pronouns (I, me, etc.).md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/9. Describe the Plans for the Day/2. Prepositions (of time).md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/9. Describe the Plans for the Day/1. Will (for Offers & Decisions).md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/2. Marco General - Parte 2.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/3. Iniciación - Elaboración del Acta de Constitución.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/5. Planificación del Alcance del Proyecto - Parte 2.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/6. Planificación del Tiempo del Proyecto - Parte 1.md",
-    "ISIL/2025-00/1286-GestiónDeProyectos/7. Planificación del Tiempo del Proyecto - Parte 2.md",
-    "IT Knowledge/SAP/SAP Business One.md",
-    "IT Knowledge/SAP/Roles.md",
-    "IT Knowledge/SAP/SAP.md",
-    "IT Knowledge/Information-Technology.md",
-    "IT Knowledge/SAP",
-    "IT Knowledge/AI/FCC path/AI Roadmap.md",
-    "IT Knowledge/AI/FCC path",
-    "IT Knowledge/AI",
-    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/4. Liderazgo transformacional, tipos de poder y tácticas de influencia.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/3. Tipos y estilos de liderazgo.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/2. Liderazgo/2. Conceptualización de liderazgo.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/Dirección-de-personas.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo/11. Disfunciones en el trabajo en equipo.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo/10. Competencias del trabajo en equipo.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/4. Trabajo en equipo/9. Cultura colaborativa de equipo.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/3. Motivación/7. Dinamismo.md",
-    "ISIL/2024-02/1621-DireccionDePersonas/3. Motivación/6. Empoderamiento.md",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/24. Talk About Your Next Holiday",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/23. Speak About When You Were a Student",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/22. Speak About What You Did at the Weekend",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/21. Talk About Clothes You Like or Dislike",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/20. Give Directions/2. Imperative",
-    "ISIL/2025-00/1764-IdiomaExtrangero-1/Clases/20. Give Directions",
+    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/1. Empresa y entorno.md",
+    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/2. Oportunidades de negocio.md",
+    "ISIL/2025-01/Etica Profesional-2057/2. La moral.md",
+    "--files/Pasted image 20250412104630.png",
+    "--files/Pasted image 20250412104608.png",
+    "--files/Pasted image 20250412104532.png",
+    "--files/Pasted image 20250412104501.png",
+    "--files/Pasted image 20250412104420.png",
+    "--files/Pasted image 20250412104353.png",
+    "--files/Pasted image 20250412102941.png",
+    "--files/Pasted image 20250412092449.png",
+    "--files/Pasted image 20250412092435.png",
+    "--files/Pasted image 20250412092142.png",
+    "--templater/templates/isil-template-01.md",
+    "ISIL/2025-01/GestionDeLaCadenaDeSuministros-2283/1. Cadena de suministros.md",
+    "ISIL/2025-01/English Level B1-2-4630/Classes/2nd Class.md",
+    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s/Vocabulary 1.md",
+    "ISIL/2025-01/English Level B1-2-4630/Classes",
+    "ISIL/2025-01/English Level B1-2-4630/2.1 - Class/Exercises.md",
+    "ISIL/2025-01/English Level B1-2-4630/2.1 - Class",
+    "ISIL/2025-01/English Level B1-2-4630/2 - Clase.md",
+    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s/Gramatic 1 - ....md",
+    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s/Vocabulary 2.md",
+    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s/Vocabulary.md",
+    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s/Gramatic 2 - Will and Going to.md",
+    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s/Gramatic 1 - Present Perfect.md",
+    "ISIL/2025-01/English Level B1-2-4630/English Level B1 - 2.md",
+    "ISIL/2025-01/Ciclo 2025-01.md",
+    "ISIL/Instituto-San-Ignacio-Loyola.md",
+    "ISIL/2025-00/Ciclo-2025-00.md",
+    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Gramatic 1 - ....md",
+    "ISIL/2025-01/English Level B1-2-4630/4 - Going to the Restaurant-s/Gramatic 1 - ....md",
+    "ISIL/2025-01/English Level B1-2-4630/3 - Shopping for Clothes-s/Gramatic 1 - ....md",
+    "ISIL/2025-01/English Level B1-2-4630/4 - Going to the Restaurant-s/Vocabulary.md",
+    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Vocabulary.md",
+    "ISIL/2025-01/English Level B1-2-4630/3 - Shopping for Clothes-s/Vocabulary.md",
+    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Sin nombre",
+    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s",
+    "ISIL/2025-01/English Level B1-2-4630/4 - Going to the Restaurant-s",
+    "ISIL/2025-01/English Level B1-2-4630/3 - Shopping for Clothes-s",
+    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s",
+    "IT Knowledge/Development/Technologies/Libraries/React js/Dependency injection.md",
+    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s",
+    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015",
+    "ISIL/2025-01/GestionDeOperaciones-2399",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Diagrama general.canvas",
-    "--files/Pasted image 20241114112000.png",
-    "--files/Pasted image 20241114110014.png",
-    "--files/Pasted image 20241114105948.png",
-    "--files/Pasted image 20241114105553.png",
-    "--files/Pasted image 20241114105532.png",
-    "--files/Pasted image 20241114105246.png",
-    "--files/Pasted image 20241114105228.png",
-    "--files/Pasted image 20241114102237.png",
-    "--files/Pasted image 20241114102218.png",
-    "--files/Pasted image 20241114101936.png",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",
     "Sin título 2.canvas",

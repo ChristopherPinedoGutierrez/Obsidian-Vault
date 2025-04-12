@@ -4,5 +4,7 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "tag-wrangler",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-wordnet-plugin",
+  "language-translator"
 ]

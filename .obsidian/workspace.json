@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "432da9a9ec9c4872",
+        "id": "62de6f2f075a2cd8",
         "type": "tabs",
         "children": [
           {
-            "id": "10af1f62edd81738",
+            "id": "a7427e306b797748",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/5. Analisis PESTE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "5. Analisis PESTE"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.50418853759766
+    "width": 339.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "1a7bf04820fa522d",
@@ -135,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/2. Oportunidades de negocio.md"
+                "file": "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/5. Analisis PESTE.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2. Oportunidades de negocio"
+              "title": "Esquema de 5. Analisis PESTE"
             }
           },
           {
@@ -209,51 +214,52 @@
   },
   "active": "9716e9111ce6152e",
   "lastOpenFiles": [
-    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/1. Empresa y entorno.md",
     "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/2. Oportunidades de negocio.md",
-    "ISIL/2025-01/Etica Profesional-2057/2. La moral.md",
-    "--files/Pasted image 20250412104630.png",
-    "--files/Pasted image 20250412104608.png",
-    "--files/Pasted image 20250412104532.png",
-    "--files/Pasted image 20250412104501.png",
-    "--files/Pasted image 20250412104420.png",
-    "--files/Pasted image 20250412104353.png",
-    "--files/Pasted image 20250412102941.png",
-    "--files/Pasted image 20250412092449.png",
-    "--files/Pasted image 20250412092435.png",
-    "--files/Pasted image 20250412092142.png",
-    "--templater/templates/isil-template-01.md",
-    "ISIL/2025-01/GestionDeLaCadenaDeSuministros-2283/1. Cadena de suministros.md",
-    "ISIL/2025-01/English Level B1-2-4630/Classes/2nd Class.md",
-    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s/Vocabulary 1.md",
-    "ISIL/2025-01/English Level B1-2-4630/Classes",
-    "ISIL/2025-01/English Level B1-2-4630/2.1 - Class/Exercises.md",
-    "ISIL/2025-01/English Level B1-2-4630/2.1 - Class",
-    "ISIL/2025-01/English Level B1-2-4630/2 - Clase.md",
-    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s/Gramatic 1 - ....md",
-    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s/Vocabulary 2.md",
-    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s/Vocabulary.md",
-    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s/Gramatic 2 - Will and Going to.md",
-    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s/Gramatic 1 - Present Perfect.md",
-    "ISIL/2025-01/English Level B1-2-4630/English Level B1 - 2.md",
-    "ISIL/2025-01/Ciclo 2025-01.md",
-    "ISIL/Instituto-San-Ignacio-Loyola.md",
-    "ISIL/2025-00/Ciclo-2025-00.md",
-    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Gramatic 1 - ....md",
-    "ISIL/2025-01/English Level B1-2-4630/4 - Going to the Restaurant-s/Gramatic 1 - ....md",
-    "ISIL/2025-01/English Level B1-2-4630/3 - Shopping for Clothes-s/Gramatic 1 - ....md",
-    "ISIL/2025-01/English Level B1-2-4630/4 - Going to the Restaurant-s/Vocabulary.md",
+    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/5. Analisis PESTE.md",
+    "ISIL/2025-01/English Level B1-2-4630/Classes/4th Class.md",
+    "ISIL/2025-01/English Level B1-2-4630/Classes/3rd Class.md",
+    "ISIL/2025-01/PA1.md",
+    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday/Gramatic.md",
+    "--files/6gB6Pso2Gx.png",
+    "--files/qq0x7WiOrw.png",
+    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday/Vocabulary 2 - Talking about your holiday.md",
+    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday/Vocabulary 1 - Going on a trip.md",
+    "ISIL/2025-01/English Level B1-2-4630/9 - Talking about your hobbies/Vocabulary 1 - Talking about your hobbies.md",
+    "ISIL/2025-01/English Level B1-2-4630/9 - Talking about your hobbies/Vocabulary 2 - Doing and playing sports.md",
+    "ISIL/2025-01/English Level B1-2-4630/8 - Talking about different cultures/Vocabulary 1.md",
+    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Gramatic 1 - Modals (can, may & should).md",
+    "ISIL/2025-01/English Level B1-2-4630/6 - Talking about the weather/Gramatic - Modals (of Deduction).md",
+    "--files/VXjIGofrIK.png",
+    "--files/2dlrwpppWp.png",
+    "ISIL/2025-01/English Level B1-2-4630/6 - Talking about the weather/Vocabulary - Talking about the weather.md",
     "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Vocabulary.md",
-    "ISIL/2025-01/English Level B1-2-4630/3 - Shopping for Clothes-s/Vocabulary.md",
+    "ISIL/2025-01/English Level B1-2-4630/9 - Talking about your hobbies",
+    "ISIL/2025-01/English Level B1-2-4630/8 - Talking about different cultures",
+    "ISIL/2025-01/DesarrolloDeAplicaciones1-1571/Clase 01.md",
+    "ISIL/2025-01/PA2.md",
+    "ISIL/2025-01/EV Final.md",
+    "ISIL/2025-01/PA4.md",
+    "ISIL/2025-01/PA3.md",
+    "ISIL/2025-01/Etica Profesional-2057/2. La moral.md",
+    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/PA1.md",
+    "ISIL/2025-01/Etica Profesional-2057/PA.md",
+    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/1. Empresa y entorno.md",
+    "IT Knowledge/Pendientes/Seguridad.md",
+    "IT Knowledge/Pendientes/Design thinking.md",
+    "IT Knowledge/Pendientes",
+    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday",
+    "ISIL/2025-01/English Level B1-2-4630/6 - Talking about the weather",
+    "--files/DwmdA8J6Tn.png",
+    "--files/YHeHKAgqph.png",
+    "--files/Pasted image 20250421170407.png",
+    "--files/Pasted image 20250421170324.png",
+    "--files/Pasted image 20250421170125.png",
+    "--files/ir8zrizgOa.png",
+    "ISIL/2025-01/English Level B1-2-4630/Classes",
+    "ISIL/2025-01/English Level B1-2-4630/2.1 - Class",
     "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Sin nombre",
     "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s",
     "ISIL/2025-01/English Level B1-2-4630/4 - Going to the Restaurant-s",
-    "ISIL/2025-01/English Level B1-2-4630/3 - Shopping for Clothes-s",
-    "ISIL/2025-01/English Level B1-2-4630/2 - Driving in the City-s",
-    "IT Knowledge/Development/Technologies/Libraries/React js/Dependency injection.md",
-    "ISIL/2025-01/English Level B1-2-4630/1 - Visit Someone at the hospital-s",
-    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015",
-    "ISIL/2025-01/GestionDeOperaciones-2399",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Diagrama general.canvas",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",

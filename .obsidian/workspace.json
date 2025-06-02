@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62de6f2f075a2cd8",
+        "id": "f9193fb0f3cb50d1",
         "type": "tabs",
         "children": [
           {
-            "id": "a7427e306b797748",
+            "id": "caf267f9f8e5ce61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/5. Analisis PESTE.md",
+                "file": "ISIL/2025-01/English Level B1-2-4630/F2F Classes/7th Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Analisis PESTE"
+              "title": "7th Class"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.50418853759766,
+    "width": 309.5,
     "collapsed": true
   },
   "right": {
@@ -176,10 +176,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ISIL/2025-01/English Level B1-2-4630/Classes/2nd Class.md"
+                "file": "ISIL/2025-01/English Level B1-2-4630/F2F Classes/7th Class.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para 2nd Class"
+              "title": "Propiedades de los archivos para 7th Class"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -212,54 +212,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9716e9111ce6152e",
+  "active": "caf267f9f8e5ce61",
   "lastOpenFiles": [
-    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/2. Oportunidades de negocio.md",
-    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/5. Analisis PESTE.md",
-    "ISIL/2025-01/English Level B1-2-4630/Classes/4th Class.md",
-    "ISIL/2025-01/English Level B1-2-4630/Classes/3rd Class.md",
-    "ISIL/2025-01/PA1.md",
-    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday/Gramatic.md",
+    "ISIL/2025-01/English Level B1-2-4630/F2F Classes/6th Class.md",
+    "ISIL/2025-01/English Level B1-2-4630/F2F Classes/7th Class.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/16 - Talking about the enviroment/Vocabulary - 1.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/16 - Talking about the enviroment/16 - Talking about the enviroment.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/16 - Talking about the enviroment",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/15 - Talking about Lifestyles/Vocabulary -.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/17 - Talking about your home.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/20 - Going out for coffe.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/19 - Managing everyday matters.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/18 - Describing a house.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/14 - Talking about university life/Vocabulary - Talking about university life.md",
+    "--files/Pasted image 20250516105442.png",
+    "ISIL/2025-01/English Level B1-2-4630/F2F Classes/5th Class.md",
+    "IT Knowledge/101 - Global/2. React.js.md",
+    "IT Knowledge/101 - Global/1. Javascript.md",
+    "IT Knowledge/101 - Global/5. No SQL.md",
+    "IT Knowledge/101 - Global/4. SQL.md",
+    "IT Knowledge/101 - Global/3. Nodejs.md",
+    "IT Knowledge/101 - Global",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/13 - Talking about school/Vocabulary - Talking about school.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/14 - Talking about university life/Vocabulary -.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/15 - Talking about Lifestyles",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/12 - Communicating by email/Vocabulary - Communicating by email.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/14 - Talking about university life",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/13 - Talking about school",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/11 - Speaking on the phone/Vocabulary - Making an appointment on the phone.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/10 - A visit to the Bank/Vocabulary 1 - A visit to the bank.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/12 - Communicating by email",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/11 - Speaking on the phone",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/10 - A visit to the Bank/Gramatic - Future ('if', 'when' + present tenses).md",
+    "--files/sIAyzNl8oj.png",
+    "--files/SuLfiwXlCP.png",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/9 - Talking about your hobbies/Vocabulary 1 - Talking about your hobbies.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/9 - Talking about your hobbies/Vocabulary 2 - Doing and playing sports.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/10 - A visit to the Bank",
+    "ISIL/2025-01/DesarrolloDeAplicaciones1-1571/Clase 01.md",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/8 - Talking about different cultures/Gramatic - Comparative (Adjectives).md",
+    "--files/rBKt7FfEec.png",
+    "--files/4rSNn4bWSk.png",
+    "--files/Pasted image 20250508213007.png",
+    "--files/btNEsUN6dE.png",
+    "--files/YQmdJNJ7Ed.png",
     "--files/6gB6Pso2Gx.png",
     "--files/qq0x7WiOrw.png",
-    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday/Vocabulary 2 - Talking about your holiday.md",
-    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday/Vocabulary 1 - Going on a trip.md",
-    "ISIL/2025-01/English Level B1-2-4630/9 - Talking about your hobbies/Vocabulary 1 - Talking about your hobbies.md",
-    "ISIL/2025-01/English Level B1-2-4630/9 - Talking about your hobbies/Vocabulary 2 - Doing and playing sports.md",
-    "ISIL/2025-01/English Level B1-2-4630/8 - Talking about different cultures/Vocabulary 1.md",
-    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Gramatic 1 - Modals (can, may & should).md",
-    "ISIL/2025-01/English Level B1-2-4630/6 - Talking about the weather/Gramatic - Modals (of Deduction).md",
-    "--files/VXjIGofrIK.png",
-    "--files/2dlrwpppWp.png",
-    "ISIL/2025-01/English Level B1-2-4630/6 - Talking about the weather/Vocabulary - Talking about the weather.md",
-    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Vocabulary.md",
-    "ISIL/2025-01/English Level B1-2-4630/9 - Talking about your hobbies",
-    "ISIL/2025-01/English Level B1-2-4630/8 - Talking about different cultures",
-    "ISIL/2025-01/DesarrolloDeAplicaciones1-1571/Clase 01.md",
-    "ISIL/2025-01/PA2.md",
-    "ISIL/2025-01/EV Final.md",
-    "ISIL/2025-01/PA4.md",
-    "ISIL/2025-01/PA3.md",
-    "ISIL/2025-01/Etica Profesional-2057/2. La moral.md",
-    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/PA1.md",
-    "ISIL/2025-01/Etica Profesional-2057/PA.md",
-    "ISIL/2025-01/AnalisisDelEntornoDeNegocios-30015/1. Empresa y entorno.md",
-    "IT Knowledge/Pendientes/Seguridad.md",
-    "IT Knowledge/Pendientes/Design thinking.md",
-    "IT Knowledge/Pendientes",
-    "ISIL/2025-01/English Level B1-2-4630/7 - Talking about the holiday",
-    "ISIL/2025-01/English Level B1-2-4630/6 - Talking about the weather",
-    "--files/DwmdA8J6Tn.png",
-    "--files/YHeHKAgqph.png",
-    "--files/Pasted image 20250421170407.png",
-    "--files/Pasted image 20250421170324.png",
-    "--files/Pasted image 20250421170125.png",
-    "--files/ir8zrizgOa.png",
-    "ISIL/2025-01/English Level B1-2-4630/Classes",
-    "ISIL/2025-01/English Level B1-2-4630/2.1 - Class",
-    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s/Sin nombre",
-    "ISIL/2025-01/English Level B1-2-4630/5 - Preparing Food-s",
-    "ISIL/2025-01/English Level B1-2-4630/4 - Going to the Restaurant-s",
+    "ISIL/2025-01/English Level B1-2-4630/Web Platform/9 - Talking about your hobbies",
     "ISIL/2024-02/3620-AnalisisYDiseñoDeSistemas/Diagrama general.canvas",
     "Sin título.canvas",
     "Development/Areas/Frontend/Sin título.canvas",

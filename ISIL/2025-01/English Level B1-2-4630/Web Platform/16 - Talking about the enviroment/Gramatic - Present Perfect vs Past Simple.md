@@ -1,6 +1,6 @@
 ---
-creation Date: 2025-05-21 11:57
-last modification: " 2025-05-21 11:58"
+creation Date: 2025-06-01 19:26
+last modification: " 2025-06-01 19:26"
 aliases: 
 tags:
   - ISIL
